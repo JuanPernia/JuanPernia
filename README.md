@@ -51,7 +51,12 @@
 </div>
 
 ###
-<h2 aling="center"
+
+<h2 align="left">Redes sociales </h2>
+
+###
+
+<div aling="center"
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   <p>pernia_pb</p>
