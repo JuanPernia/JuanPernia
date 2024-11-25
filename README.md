@@ -51,14 +51,20 @@
 </div>
 
 ###
-
-<div align="left">
+<h2 aling="center"
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   <p>pernia_pb</p>
   </div>
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   <p>Juan Pernia</p>
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <p>juanpernia.24jp@gmail.com</p>
+</div>
+
+###
 
 ###
