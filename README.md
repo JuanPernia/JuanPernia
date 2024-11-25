@@ -1,12 +1,12 @@
-<h2 align="left">¡Hola, soy Juan Pernia!👋</h2>
+<h1 align="left">¡Hola, soy Juan Pernia!👋</h1>
 
 ###
 
-<h5 align="left">• Siempre en evolución y aprendiendo paso a paso📈.</h5>
+<h3 align="left">• Siempre en evolución y aprendiendo paso a paso📈.</h3>
 
 ###
 
-<h3 align="left">Tecnologías 💻</h3>
+<h2 align="left">Tecnologías 💻</h2>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Estadísticas 📊</h3>
+<h2 align="left">Estadísticas 📊</h2>
 
 ###
 
