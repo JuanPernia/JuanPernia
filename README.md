@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">• Siempre en evolución y aprendiendo paso a paso📈.</h3>
+<p align="left">• Siempre en evolución y aprendiendo paso a paso📈.</p>
 
 ###
 
