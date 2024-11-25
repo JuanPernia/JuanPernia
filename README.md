@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </div>
-•⚙️ <div align="left">
+•🔧 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
 </div>
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">Redes sociales </h2>
+<h2 align="left">Redes sociales🌐 </h2>
 
 ###
 
